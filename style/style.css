@@ -1,0 +1,183 @@
+body {
+    margin: 0px;
+}
+
+.tt-header {
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tt-left-section {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.tt-left-section:active {
+    border: 2px solid rgba(51,153,255,1);
+}
+
+.ted-button {
+    background-color: white;
+    color: red;
+    border: none;
+    font-size: 35px;
+    font-weight: bolder;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.ted-button-2 {
+    background-color: white;
+    color: darkgrey;
+    border: none;
+    font-size: 20px;
+    font-weight: lighter;
+    cursor: pointer;
+}
+
+.tt-middle-section {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.watch-button {
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    height: 55px;
+    cursor: pointer;
+    border:1px solid rgba(0,0,0,0);
+}
+
+.watch-button:hover {
+    background-color: rgb(243,243,243);
+}
+.watch-button:active {
+    border: 2px solid rgba(51,153,255,1);
+}
+
+.discover-button {
+    background-color: white;
+    color: black;
+    border:1px solid rgba(0,0,0,0);
+    font-size: 14px;
+    font-weight: bold;
+    height: 55px;
+    cursor: pointer;
+}
+
+.discover-button:hover {
+    background-color: rgb(243,243,243);
+}
+.discover-button:active {
+    border: 2px solid rgba(51,153,255,1);
+}
+
+.attend-button {
+    background-color: white;
+    color: black;
+    border:1px solid rgba(0,0,0,0);
+    font-size: 14px;
+    font-weight: bold;
+    height: 55px;
+    cursor: pointer;
+}
+
+.attend-button:hover {
+    background-color: rgb(243,243,243);
+}
+.attend-button:active {
+    border: 2px solid rgba(51,153,255,1);
+}
+
+.participate-button {
+    background-color: white;
+    color: black;
+    border:1px solid rgba(0,0,0,0);
+    font-size: 14px;
+    font-weight: bold;
+    height: 55px;
+    cursor: pointer;
+}
+
+.participate-button:hover {
+    background-color: rgb(243,243,243);
+}
+.participate-button:active {
+    border: 2px solid rgba(51,153,255,1);
+}
+
+.about-button {
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    border:1px solid rgba(0,0,0,0);
+    font-weight: bold;
+    height: 55px;
+    cursor: pointer;
+}
+
+.about-button:hover {
+    background-color: rgb(243,243,243);
+}
+
+.about-button:active {
+    border: 2px solid rgba(51,153,255,1);
+}
+
+.membership-button {
+    background-color: red;
+    color: white;
+    height: 45px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    border:1px solid rgba(0,0,0,0);
+    cursor: pointer;
+}
+.membership-button:active {
+    border: 2px solid rgba(51,153,255,1);
+}
+
+.tt-right-section {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+.sign-in-button {
+    background-color: white;
+    color: black;
+    border: 0px solid rgba(51,153,255,1);
+    font-size: 14px;
+    font-weight: bold;
+    height: 55px;
+    width: 70px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.sign-in-button:hover {
+    background-color: rgb(243,243,243);
+}
+.sign-in-button:active {
+    border: 2px solid rgba(51,153,255,1);
+}
+.tt-search-icon {
+    width: 20px;
+}
+.tt-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20px;
+}
